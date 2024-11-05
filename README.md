@@ -2,7 +2,7 @@
 
 **`Digital Craftsman (Developer)`**
 
-I'm an C developer currently studying at 42 Lisboa. 
+I'm a dedicated programming and cybersecurity enthusiast currently studying at 42 Lisboa, with a background in both technical and interpersonal roles. My journey into tech has been fueled by hands-on experience, including tasks involving computer hardware and software, and further supported by multiple courses and certifications. My commitment to learning and expanding my skill set has driven me to seek deeper knowledge in programming and cybersecurity.
 
 ---
 
