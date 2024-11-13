@@ -16,11 +16,3 @@ I'm a dedicated programming and cybersecurity enthusiast currently studying at 4
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <br />
-
-
-### 📊 Stats
-
-![LuisMBatista's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuisMBatista&show_icons=true&theme=gruvbox)
-
-<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=LuisMBatista&theme=gruvbox&border_radius=4.5) -->
-
